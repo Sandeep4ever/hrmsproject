@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
+  <g id="Group_414" data-name="Group 414" transform="translate(-38 -175)">
+    <g id="Rectangle_408" data-name="Rectangle 408" transform="translate(38 175)" fill="none" stroke="#cacaca" stroke-width="1.3">
+      <path d="M0,0H11a5,5,0,0,1,5,5V22a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" stroke="none"/>
+      <path d="M1.3.65H11A4.35,4.35,0,0,1,15.35,5V20.7a.65.65,0,0,1-.65.65H1.3a.65.65,0,0,1-.65-.65V1.3A.65.65,0,0,1,1.3.65Z" fill="none"/>
+    </g>
+    <line id="Line_52" data-name="Line 52" x2="10" transform="translate(40.5 187.5)" fill="none" stroke="#cacaca" stroke-width="1.3"/>
+    <line id="Line_53" data-name="Line 53" x2="10" transform="translate(40.5 189.5)" fill="none" stroke="#cacaca" stroke-width="1.3"/>
+    <line id="Line_49" data-name="Line 49" x2="6" transform="translate(40.5 179.5)" fill="none" stroke="#cacaca" stroke-width="1.3"/>
+    <line id="Line_50" data-name="Line 50" x2="10" transform="translate(40.5 183.5)" fill="none" stroke="#cacaca" stroke-width="1.3"/>
+    <line id="Line_51" data-name="Line 51" x2="10" transform="translate(40.5 185.5)" fill="none" stroke="#cacaca" stroke-width="1.3"/>
+    <g id="Ellipse_42" data-name="Ellipse 42" transform="translate(48 185)" fill="#0c2342" stroke="#cacaca" stroke-width="1.3">
+      <circle cx="6" cy="6" r="6" stroke="none"/>
+      <circle cx="6" cy="6" r="5.35" fill="none"/>
+    </g>
+    <g id="Group_308" data-name="Group 308">
+      <g id="Group_415" data-name="Group 415">
+        <line id="Line_55" data-name="Line 55" y1="4" x2="3" transform="translate(53 189)" fill="none" stroke="#cacaca" stroke-linecap="round" stroke-width="1.3"/>
+        <line id="Line_90" data-name="Line 90" x1="3" y1="4" transform="translate(53 189)" fill="none" stroke="#cacaca" stroke-linecap="round" stroke-width="1.3"/>
+      </g>
+    </g>
+  </g>
+</svg>

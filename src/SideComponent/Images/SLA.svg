@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="21" height="21" viewBox="0 0 21 21">
+  <g id="SLA" transform="translate(-5.1 -5.1)">
+    <path id="Path_78" data-name="Path 78" d="M25.085,25.6H6.115a.487.487,0,0,1-.515-.515V6.115A.487.487,0,0,1,6.115,5.6H25.085a.487.487,0,0,1,.515.515V25.085A.554.554,0,0,1,25.085,25.6Z" transform="translate(0 0)" fill="none" stroke="#cacaca" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <g id="Group_307" data-name="Group 307" transform="translate(8.847 9.157)">
+      <g id="Group_304" data-name="Group 304" transform="translate(0 12.216)">
+        <line id="Line_42" data-name="Line 42" x2="6.443" fill="none" stroke="#cacaca" stroke-linecap="round" stroke-width="1"/>
+      </g>
+      <g id="Group_305" data-name="Group 305" transform="translate(0 5.155)">
+        <line id="Line_43" data-name="Line 43" x2="6.443" transform="translate(0 1.907)" fill="none" stroke="#cacaca" stroke-linecap="round" stroke-width="1"/>
+        <line id="Line_44" data-name="Line 44" x2="1.289" y2="1.392" transform="translate(9.691 1.186)" fill="none" stroke="#cacaca" stroke-linecap="round" stroke-width="1"/>
+        <line id="Line_45" data-name="Line 45" x1="2.526" y2="2.577" transform="translate(10.979)" fill="none" stroke="#cacaca" stroke-linecap="round" stroke-width="1"/>
+      </g>
+      <g id="Group_306" data-name="Group 306">
+        <line id="Line_46" data-name="Line 46" x2="6.443" transform="translate(0 1.907)" fill="none" stroke="#cacaca" stroke-linecap="round" stroke-width="1"/>
+        <line id="Line_47" data-name="Line 47" x2="1.289" y2="1.392" transform="translate(9.691 1.186)" fill="none" stroke="#cacaca" stroke-linecap="round" stroke-width="1"/>
+        <line id="Line_48" data-name="Line 48" x1="2.526" y2="2.577" transform="translate(10.979)" fill="none" stroke="#cacaca" stroke-linecap="round" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>
